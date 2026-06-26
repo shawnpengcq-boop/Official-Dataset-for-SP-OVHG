@@ -135,7 +135,7 @@ If you use this dataset in your research, please cite the accompanying paper:
 @article{spo7hg2026,
   title  = {SP-OVHG: A Vision-Language Hierarchical Framework for Automated
             Maturity Assessment and Quality Grading of Sichuan Pepper},
-  author = {<Author Names)},
+  author = {<Pengjun Xianga,, Xubo Zhanga,, Chengkai Yu, Qiang Huang, Jianjun Chen, Francesco Marinello>},
   year   = {2026},
   note   = {Manuscript under review. Dataset available at
             https://github.com/<your-user>/<your-repo>}
