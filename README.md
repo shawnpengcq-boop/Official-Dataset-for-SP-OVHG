@@ -48,7 +48,7 @@ There are **2 classes**, encoding a two-granularity detection scheme:
 | `class_id` | Name (EN) | Name (中文) | Description |
 |---|---|---|---|
 | `0` | pepper cluster | 花椒簇 | A whole pepper cluster /更大的包围框 |
-| `1` | individual pepper | 花椒粒 | A single pepper fruit / smaller box |
+| `1` | pepper | 花椒粒 | A single pepper fruit / smaller box |
 
 A `classes.txt` file (listing the class names/indices, one per line) is included in the `Precisely Annotated Dataset/labels/` directory for convenience.
 
@@ -72,7 +72,7 @@ path: ./public
 train: Hanyuan Sichuan Pepper Dataset/images
 val: Precisely Annotated Dataset/images
 nc: 2
-names: ['pepper_cluster', 'individual_pepper']
+names: ['pepper_cluster', 'pepper']
 ```
 
 > Adjust the split to match your own experimental protocol. To reproduce the paper, please use the split described in the paper's Methods / Supplementary.
