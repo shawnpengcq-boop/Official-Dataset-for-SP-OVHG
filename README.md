@@ -6,6 +6,7 @@ Supporting dataset for the paper:
 
 This repository releases the raw images and object-detection annotations used to build and evaluate the SP-OVHG framework. The dataset was collected from Hanyuan county, Sichuan, China — a major production region of Hanyuan Sichuan Pepper (*Zanthoxylum bungeanum*) — and is annotated for pepper fruit detection at two granularities.
 
+> **Sichuan Pepper Dataset** — [https://drive.google.com/file/d/1QmxgACRvklNunJjFqk8BRA9Wz9RGSP2r/view?usp=drive_link](https://drive.google.com/file/d/1QmxgACRvklNunJjFqk8BRA9Wz9RGSP2r/view?usp=drive_link)
 ## Repository Structure
 
 ```
