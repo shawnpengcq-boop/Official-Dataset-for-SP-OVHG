@@ -46,8 +46,8 @@ There are **2 classes**, encoding a two-granularity detection scheme:
 
 | `class_id` | Name (EN) | Name (中文) | Description |
 |---|---|---|---|
-| `0` | pepper cluster | 果穗 | A whole pepper cluster /更大的包围框 |
-| `1` | individual pepper | 单果 | A single pepper fruit / smaller box |
+| `0` | pepper cluster | 花椒簇 | A whole pepper cluster /更大的包围框 |
+| `1` | individual pepper | 花椒粒 | A single pepper fruit / smaller box |
 
 A `classes.txt` file (listing the class names/indices, one per line) is included in the `Precisely Annotated Dataset/labels/` directory for convenience.
 
