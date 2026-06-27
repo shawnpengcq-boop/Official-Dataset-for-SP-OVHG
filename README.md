@@ -139,7 +139,7 @@ If you use this dataset in your research, please cite the accompanying paper:
   author = {<Pengjun Xianga,, Xubo Zhanga,, Chengkai Yu, Qiang Huang, Jianjun Chen, Francesco Marinello>},
   year   = {2026},
   note   = {Manuscript under review. Dataset available at
-            https://github.com/<your-user>/<your-repo>}
+            [https://github.com/<your-user>/<your-repo>](https://github.com/shawnpengcq-boop/Official-Dataset-for-SP-OVHG)}
 }
 ```
 
