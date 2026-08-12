@@ -2,7 +2,7 @@
 
 Supporting dataset for the paper:
 
-> **SP-OVHG: A Hierarchical Vision Framework for Automated Maturity Assessment and Quality Grading of Sichuan Pepper under Field Conditions**
+> **SP-OVHG: A Hierarchical Vision-Based Framework for Automated Maturity Assessment and Quality Grading of Fresh Sichuan Pepper**
 
 This repository releases the raw images and object-detection annotations used to build and evaluate the SP-OVHG framework. The dataset was collected from Hanyuan county, Sichuan, China — a major production region of Hanyuan Sichuan Pepper (*Zanthoxylum bungeanum*) — and is annotated for pepper fruit detection at two granularities.
 
